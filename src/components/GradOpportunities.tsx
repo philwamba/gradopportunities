@@ -12,7 +12,7 @@ type OpportunityCardProps = Opportunity;
 
 export default function GraduateSchoolOpportunities() {
     return (
-        <div className="min-h-screen bg-gradient-to-br from-blue-100 to-green-100">
+        <div className="min-h-screen bg-gradient-to-br from-blue-100 to-green-100 font-sans">
             <header className="bg-blue-800 text-white py-6 px-4 sm:px-6 lg:px-8">
                 <h1 className="text-3xl font-bold text-center">Graduate School Opportunities</h1>
             </header>
